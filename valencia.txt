@@ -1,0 +1,39 @@
+DETAILS:
+abstract: Valencia (oficialmente en valenciano: València,​ AFI: [vaˈɫensia])​es un municipio​ y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana. Con una población de 801 545 habitantes (2020),​que sube a 1 581 057 habitantes (2020) si se incluye su espacio urbano,
+website: http://www.valencia.es
+country: http://dbpedia.org/resource/Spain
+zip: 46000-46080
+areaTotal: 134.65
+areaUrban: 628.8099999999999
+population: 789744
+lat: 39.46666717529297
+long: -0.375
+
+
+IMAGES:
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Escut_de_València.svg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Valencia,_Spain.jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Crema_falla_2015.jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Collage_de_la_ciudad_de_Valencia,_capital_de_la_Comunidad_Valenciana,_España.png
+ - http://commons.wikimedia.org/wiki/Special:FilePath/El_Museu_de_les_Ciències_Príncipe_Felipe_–_Bilim_ve_Uzay_Müzesi.jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Sentiment_Valencianista.jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Convento_de_Santo_Domingo,_Valencia,_España,_2014-06-29,_DD_13.jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Baldomer_Gili_Roig._El_Palmar_(La_Albufera_de_València),_c._1915_(2).jpg
+ - http://commons.wikimedia.org/wiki/Special:FilePath/Plat_àrab_València.jpg
+
+
+LOCATIONS:
+
+label: Aqua Multiespacio
+entity: http://dbpedia.org/resource/Aqua_Multiespacio
+abstract: Aqua Multiespacio es un edificio de Valencia en España. Tiene una altura de 95 metros convirtiéndolo en el tercero más alto de la ciudad tras la Torre Hilton y la Torre de Francia, el complejo consta de dos torres, la más alta con planta ovalada y la más baja con planta rectangular, Su con
+
+label: Micalet
+entity: http://dbpedia.org/resource/Miguelete_Tower
+abstract: La torre del Miguelete (en valenciano, Torre del Micalet) es la torre campanario de la catedral de Valencia, España. La construcción de la torre se inicia en 1381 y finaliza en 1429. Por su complejidad y largos años de construcción, fue dirigida sucesivamente por varios maestros de obra; s
+website: https://catedraldevalencia.es/el-miguelete/
+
+label: Museu d'història de València
+entity: http://dbpedia.org/resource/Valencia_History_Museum
+abstract: El Museo de historia de Valencia (en valenciano y oficialmente, Museu d'història de València), conocido como MhV, inaugurado el 7 de mayo de 2003, es un museo dedicado al desarrollo de la historia de la ciudad de Valencia (España). El objetivo de su exposición permanente es presentar los p
+website: http://www.valencia.es/mhv
